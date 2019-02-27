@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidNangCaoAssignment</string>
+    <string name="course">Course</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_rssfeed_acitvity">RSSFeedAcitvity</string>
+    <string name="title_activity_share">ShareActivity</string>
+</resources>
